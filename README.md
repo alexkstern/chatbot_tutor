@@ -34,12 +34,3 @@ pip install -r requirements.txt
 ## Data and Models
 Note: All datasets and model weights are not included in this repository due to their large sizes.
 
-## Contributions
-Feel free to fork this repository or provide feedback on the methods and implementations.
-
-## License
-This project is open-sourced under the MIT license.
-
----
-
-This README provides a clear overview of your project, its structure, and how to navigate the repository. It also gives straightforward instructions on setting up the environment needed to run the notebooks, which is essential for reproducing your results or further developing the project.
