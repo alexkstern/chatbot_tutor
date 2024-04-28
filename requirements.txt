@@ -1,0 +1,28 @@
+# Standard libraries
+reportlab
+tqdm
+faiss-cpu
+torch
+pandas
+bitsandbytes
+datasets
+scipy
+ipywidgets
+matplotlib
+wandb
+
+# Hugging Face ecosystem
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/peft.git
+git+https://github.com/huggingface/accelerate.git
+huggingface_hub
+
+# Langchain and related extensions
+langchain
+langchain_experimental
+langchain-openai
+langchain[docarray]
+tiktoken
+
+# OpenAI
+openai
